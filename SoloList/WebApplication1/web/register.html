@@ -1,0 +1,28 @@
+<html>
+  <head>
+        <title>SoloList</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+       <link rel="stylesheet" href="themes/main.min.css" />
+		<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.min.css" />
+		<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+    </head>
+    <body>
+        <div data-role="page">
+            <div data-role="header"><h1>Register</h1></div>
+          <form data-ajax="false" action="register.jsp" method="post">
+              <br/><br/>
+              <div id="logindiv" align="center">
+                  <h2>Username:</h2><input type="text" name="username"/>
+                  <h2>Password:</h2><input type="password" name="pass"/>
+               <br/>
+              <input type="submit" value="Create Account"/>
+              <br/><br/>
+             <a href="/login.html" data-role="button" data-ajax='false'>Already have an account?</a>
+              </div>
+             
+          </form>
+      </div>
+    </body>
+</html>

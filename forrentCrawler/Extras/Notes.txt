@@ -1,0 +1,33 @@
+Check Sites to Crawl
+
+micro aprtments
+http://www.huffingtonpost.com/2013/08/28/best-websites-for-rentals-homes_n_3823865.html
+
+Check Robots
+
+ sites_to_search = [
+    'http://www.forrent.com/',
+    'http://hotpads.com/',
+    'http://www.rentals.com/',
+    'http://www.zillow.com/',
+    'http://www.apartments.com/',
+    'https://www.rentjungle.com/',
+    'http://apartable.com/',
+    'http://streeteasy.com/',
+    'http://www.padmapper.com/',
+    'http://www.nakedapartments.com/',
+    'http://www.socialisting.com/',
+    'http://www.homes.com/#search',
+    'http://www.homefinder.com/',
+    'http://www.trulia.com/',
+    'http://www.realtor.com/',
+    'http://www.moving.com/',
+    'https://www.unpakt.com/',
+    'http://www.doortodoor.com/',
+    'http://www.movingscam.com/',
+    'http://www.uline.com/',
+    'https://www.uship.com/',
+    'https://www.airbnb.com/'
+]
+Craigslist
+

@@ -1,0 +1,11 @@
+netbeans 
+
+new project
+
+web application with existing source
+
+erase the context path from WebApplication1. leave it blank.
+
+web, web-inf, and lib should all populate correctly.
+
+service available at http://localhost:24925/resources/user/new?name=aaaaa

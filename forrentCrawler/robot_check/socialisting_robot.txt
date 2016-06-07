@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /listings/
+Disallow: /apartments/
+Disallow: /jobs/
+Disallow: /stuff-for-sale/
+Disallow: /services/
+Disallow: /workspaces/
+Disallow: /community-social/
+Disallow: /other/
+Disallow: /sl-scripts/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-admin/

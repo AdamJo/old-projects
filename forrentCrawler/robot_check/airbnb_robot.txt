@@ -1,0 +1,50 @@
+#MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMMM..:~. MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMMM..MMMMZ 7MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMMMMM..MMMMMM~.MMMMMMMMMMMMMMMMMMMMMMM7~MMMMMMMM+::MMMMMMMMMMMMMMMMMM::DMMMMMMM
+#MMMMM:.MMMMMMMM..MMMMMMMMMMMMMMMMMMMMM+..~MMMMMMM~..MMMMMMMMMMMMMMMMMM  NMMMMMMM
+#MMMMO.ZMMMMMMMMM..MMMMMMMMMMMMMMMMMMMMMZIMMMMMMMM~..MMMMMMMMMMMMMMMMMM. NMMMMMMM
+#MMM8.OMMM=,.:DMMD ?MMMMMMMMMMM?...Z,,?M,,DM,.$..=~..= ..7MMM,,O . ,MMM. Z...:DMM
+#MMM. MMZ..IZ,.IMMZ.OMMMMMMMMM  ..,...?M. DM...,,+~........MM...,,...ZM........7M
+#MM:.MMM .MMMMN OMM, MMMMMMMM..?MMMM..?M. DM. MMMM~..MMMM...M..$MMM,.,M .NMMM8..7
+#M7.MMMM.,MMMMN.ZMMM,.MMMMMMD. DMMMM..?M  DM..MMMM~..MMMM$. M..$MMM:..M  NMMMM. ,
+#M.~MMMM..MMMM~.MMMMM.7MMMMMM..:MMMN..?M. DM..MMMM~..MMMM..,M..$MMM:..M .DMMMI..Z
+#.,MMMMMM..MM+.MMMMMM?.MMMMMMM...  ...?M. DM..MMMM~...  ...MM .$MMM:..M ... ...NM
+# DMMMMMMM..: DMMMMMMM.,MMMMMMMM8Z8MMMMMNMMMMMMMMMMMMMOZDMMMMMMMMMMMMNMMMMN$ZMMMM
+# NMMMMMMMM .DMMMMMMMM,.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#.,MMMMMM$.,7.,MMMMMM+.DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#M=.,::..,MMMMI. :~. .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+#MMM$++ZMMMMMMMMN?~7NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+User-Agent: *
+Allow: /calendar/ical/
+Disallow: /users/logout
+Disallow: /terms
+Disallow: /rooms/ajax_check_dates/
+Disallow: /rooms/friend_recommendations/
+Disallow: /rooms/other_hosting_reviews/
+Disallow: /rooms/this_hosting_reviews/
+Disallow: /rooms/update_cities_for_country
+Disallow: /messaging/ajax_already_messaged/
+Disallow: /rooms/calendar_tab_inner2/
+Disallow: /rooms/similar_listings/
+Disallow: /rooms/calendar_tab/
+Disallow: /rooms/ajax_lwlb_contact/
+Disallow: /rooms/sublet_available/
+Disallow: /rooms/social_connections/
+Disallow: /calendar/
+Disallow: /forgot_password
+Disallow: /groups
+Disallow: /home/dashboard
+Disallow: /my_listings
+Disallow: /trips/upcoming
+Disallow: /users/edit
+Disallow: /account
+Disallow: /logout
+Disallow: /inbox
+Disallow: /users/notifications
+Disallow: /disaster/lookup
+Disallow: /payments/book
+Disallow: /manage-listing
+Disallow: /support/search
+Disallow: /help/search

@@ -1,0 +1,14 @@
+rentCrawler - to see price fluctuation in real estate.
+
+forrent.com
+ ✔ pull data from site @done (15-05-24 17:49)
+ ✔ post to postgresql database @done (15-05-25 22:22)
+   ✔ Create forrent table  @done (15-05-24 18:51)
+   ✔ Create prices table @done (15-05-24 18:51)
+   ✔ connect to database via py @done (15-05-24 18:51)
+   ✔ export data from py to database @done (15-05-25 22:22)
+ ☐ create google map of area using api
+
+
+
+

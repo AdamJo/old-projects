@@ -1,0 +1,12 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+User-Agent: *
+Disallow: /plan/
+Disallow: /terms
+Disallow: /privacy
+Disallow: /myhome
+Disallow: /users/password/new
+Disallow: /mover/password/new
+Disallow: /users/join?return_to=%2Fusers%2Fjoin%3Freturn_to%3D%252Fusers%252Fjoin%253Freturn_to%253D%25252Fmovers%25252Fquality-moving-service-vacaville-ca
+Disallow: /users/join?*
+Sitemap: https://www.unpakt.com/sitemap.xml
